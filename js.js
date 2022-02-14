@@ -1,6 +1,6 @@
 const api_url = 'https://ipapi.co/json/';
 let bElem = document.getElementById('dta');
-let SEND_ID = ${{ secrets.SEND_ID }}
+let SEND_ID = ${{secrets.SEND_ID}}
 let AtSlA = '';
 let Bis94 = '';
 let QK7EB = '';
